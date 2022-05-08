@@ -1,5 +1,5 @@
 # Multi-view-3D-Objects-Localization-from-Street-level-Scenes
-**Abstract:
+### Abstract:
 
 This paper presents a method to localize street-level objects
 in 3D from images of an urban area. Our method processes 3D sparse
@@ -14,7 +14,5 @@ improvement in the mean average precision of object localization for the
 available Mapillary annotations. These results showcase our method’s
 effectiveness in localizing objects in 3D, which could potentially be used
 in applications such as high-definition map generation of urban environments.
-The code is publicly available (https://github.com/IIT-PAVIS/
-Multi-view-3D-Objects-Localization-from-Street-level-Scenes).
 
 The code of paper will be available soon !
