@@ -1,5 +1,6 @@
 # Multi-view-3D-Objects-Localization-from-Street-level-Scenes
-Abstract:
+**Abstract:
+
 This paper presents a method to localize street-level objects
 in 3D from images of an urban area. Our method processes 3D sparse
 point clouds reconstructed from multi-view images and leverages 2D
