@@ -34,7 +34,7 @@ effectiveness in localizing objects in 3D, which could potentially be used
 in applications such as high-definition map generation of urban environments.
 
 
-The code is organized same as explained in the block diagram of paper.
+The organization of code is same as the method explained in the block diagram of paper.
 ```       
 └── All Steps
        ├── Download images and instance segmentation from Mapillary
