@@ -34,6 +34,16 @@ effectiveness in localizing objects in 3D, which could potentially be used
 in applications such as high-definition map generation of urban environments.
 
 
+The code is organized same as explained in the block diagram of paper.
+```       
+└── All Steps
+       ├── Download images and instance segmentation from Mapillary
+       ├── Run SfM sparse reconstruction
+       ├── Set paths and parameters in the config/setting.yaml
+       ├── Run script for step 1-2 that localizes objects in the scene
+       ├── Run scripe for step 3 that matches the 2D detections
+       
+```
 
 #### Mapillary street-level scenes
 
