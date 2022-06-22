@@ -1,4 +1,15 @@
 # Multi-view 3D Objects Localization from Street Level Scenes
+  
+> *Paper ([link.springer.com/chapter/10.1007/978-3-031-06430-2_8](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_8))*
+
+    @inproceedings{ahmad2022multi,
+      title={Multi-view 3D Objects Localization from Street-Level Scenes},
+      author={Ahmad, Javed and Toso, Matteo and Taiana, Matteo and James, Stuart and Del Bue, Alessio},
+      booktitle={International Conference on Image Analysis and Processing},
+      pages={89--101},
+      year={2022},
+      organization={Springer}
+    }
 
 ## Contact
 Any questions or suggestions are welcome! 
