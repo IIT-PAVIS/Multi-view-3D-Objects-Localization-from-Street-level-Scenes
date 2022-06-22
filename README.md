@@ -64,3 +64,6 @@ Use the following script, it loads localized 3D objects in the scene and matches
 ```bash
 python Step_2_MatchingDetection.py
 ```
+
+#### Evaluation
+The code for evaluation on two scenes as mentioned in the paper will be available soon. 
