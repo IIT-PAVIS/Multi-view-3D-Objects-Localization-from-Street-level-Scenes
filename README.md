@@ -12,7 +12,7 @@
     }
 
 ## Contact
-Any questions or suggestions are welcome! 
+Any questions or suggestions are welcomed! 
 
 Javed Ahmad 
 [javed.ahmad@iit.it](mailto:javed.ahmad@iit.it) , 
